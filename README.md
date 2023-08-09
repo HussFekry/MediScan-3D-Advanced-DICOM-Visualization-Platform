@@ -18,12 +18,10 @@ Efficient Workflow: The platform streamlines the interpretation and analysis of 
 
 Data Integration: "MediScan 3D" can integrate with existing healthcare information systems, making it easier to access and analyze patient data alongside corresponding 3D medical images.
 
-https://user-images.githubusercontent.com/121517766/257525787-f7f0382d-5650-436c-aa3f-b627e0160244.png
-https://user-images.githubusercontent.com/121517766/257525895-09fbb6db-992d-4e1c-b401-d8edd66b563c.png
-https://user-images.githubusercontent.com/121517766/257526075-47166757-5da2-4211-b25a-d4618f7ffccb.png
-https://user-images.githubusercontent.com/121517766/257526135-20c11ae0-883d-4cb9-9c14-0e2a5528333f.png
-https://user-images.githubusercontent.com/121517766/257526245-117d2921-7363-48fa-904f-1da2e77553aa.png
-https://user-images.githubusercontent.com/121517766/257526348-5c5be2bb-2df1-44ad-b1e9-98eccbdca4f6.png
-https://user-images.githubusercontent.com/121517766/257526393-65ddbc70-aa32-4c52-900d-ed782e6af347.png
+![image](https://github.com/HussFekry/MediScan-3D-Advanced-DICOM-Visualization-Platform/assets/96999151/a69d7ae1-60db-4853-9b4f-c70e5e2d7f9d)
+![image](https://github.com/HussFekry/MediScan-3D-Advanced-DICOM-Visualization-Platform/assets/96999151/4194bcff-ec31-4d21-bddf-e1c1b63d2938)
+![image](https://github.com/HussFekry/MediScan-3D-Advanced-DICOM-Visualization-Platform/assets/96999151/74050a87-3f7e-458e-aad1-9886ef9e6d8b)
+![image](https://github.com/HussFekry/MediScan-3D-Advanced-DICOM-Visualization-Platform/assets/96999151/06609dca-7ac7-44b1-af3f-b68801d201c5)
+![image](https://github.com/HussFekry/MediScan-3D-Advanced-DICOM-Visualization-Platform/assets/96999151/3f6c4bcf-7d3a-487d-8c55-a5f582ba3f52)
 
 "MediScan 3D" plays a pivotal role in revolutionizing medical image analysis and interpretation. Its advanced visualization capabilities empower healthcare professionals to make accurate diagnoses, devise optimal treatment plans, and collaborate effectively, ultimately improving patient care and the overall landscape of medical informatics.
